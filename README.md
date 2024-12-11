@@ -1,7 +1,10 @@
 # BDU-TRK-Verilenlerin-Strukturlari-Module
-BDU TRK Verilenlerin Strukturlari Module For Python
 
-# Tələbə İdarəetmə Sistemi
+BDU TRK Verilenlerin Strukturlari Module for Python
+
+---
+
+# **Tələbə İdarəetmə Sistemi**
 
 Bu layihə **Tələbə İdarəetmə Sistemi**dir və Python proqramlaşdırma dilində yazılmışdır. Sistem, tələbələr, müəllimlər və universitetlərlə bağlı məlumatların idarə edilməsini təmin edir. Layihə bir neçə moduldan ibarətdir və hər modulun öz spesifik funksionallıqlarını ehtiva edir.
 
@@ -70,6 +73,7 @@ Bu layihə aşağıdakı modullardan ibarətdir:
 ---
 
 ### **5. Əsas Menyu və Funksionallıq (`main.py`)**
+
 Menyu istifadəçiyə interaktiv idarəetmə imkanı yaradır:
 - Universitet əlavə etmək, silmək və siyahısını göstərmək.
 - Tələbə və müəllim əlavə etmək, silmək və siyahısını göstərmək.
@@ -84,38 +88,6 @@ Menyu istifadəçiyə interaktiv idarəetmə imkanı yaradır:
 ### **1. Tələblər**
 Bu sistem üçün yalnız Python tələb olunur. Dəstəklənən Python versiyası:
 - **Python 3.6 və ya daha yuxarı**
-
-### **2. İşlətmə**
-Layihəni işə salmaq üçün aşağıdakı addımları izləyin:
-
-#### **a) Layihəni Yükləyin**
-Kodu `git clone` əmri ilə yükləyin:
-```bash
-git clone https://github.com/istifadeci-adiniz/telebe-idareetme-sistemi.git
-cd telebe-idareetme-sistemi
-
-
-
-# Tələbə İdarəetmə Sistemi
-
-Bu layihə Python proqramlaşdırma dilində yazılmış **Tələbə İdarəetmə Sistemi**dir. Sistem tələbələr, müəllimlər və universitetlərlə bağlı məlumatların idarə edilməsini təmin edir.
-
----
-
-## **Necə İşə Salmaq Olar**
-
-### **1. Tələblər**
-Layihəni işlətmək üçün aşağıdakılar tələb olunur:
-- **Python 3.6 və ya daha yuxarı versiya**
-
-Python versiyanızı yoxlamaq üçün terminalda aşağıdakı əmrlərdən birini icra edin:
-```bash
-python --version
-# və ya
-python3 --version
-```
-
----
 
 ### **2. Layihəni Yükləyin**
 
